@@ -1,0 +1,19 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+Name Kegelverein
+Spieler Name, Vorname
+Rufname / Spitzname
+Kegelnummer (ID)
+Geburtstag
+E-Mail Adresse
+
+Strafen
+€ 0,10 Pudel
+€ 0,20 Stolpern, Glöckchen bimmelt, Kegel bleibt auf Bahn oder in Rinne liegen
+€ 0,50 pers. Metallkegel wird nach 20:15 Uhr ins Brett gestellt, bis 15 min zu spät, Verlierer bei Mannschaftsspielen
+€ 1 rüpelhaftes Benehmen,  über das Seil werfen, pers. Kegel vergessen, T-Shirt vergessen
+€ 3 mehr als 15 min zu spät
+€ 5 Kegelbrett vergessen
+€ 10 unentschuldigtes Fehlen
+Runde außer bei 000 und 999 bei Hausnummern
